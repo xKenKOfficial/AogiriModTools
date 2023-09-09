@@ -1,0 +1,17 @@
+{
+  "item.aogirimodtools.ruby": "Ruby",
+  "item.aogirimodtools.ruby_sword": "Ruby Sword",
+  "item.aogirimodtools.ruby_pickaxe": "Ruby Pickaxe",
+  "item.aogirimodtools.ruby_axe": "Ruby Axe",
+  "item.aogirimodtools.ruby_shovel": "Ruby Shovel",
+  "item.aogirimodtools.ruby_hoe": "Ruby Hoe",
+  "item.aogirimodtools.ruby_helmet": "Ruby Helmet",
+  "item.aogirimodtools.ruby_chestplate": "Ruby Chestplate",
+  "item.aogirimodtools.ruby_leggings": "Ruby Leggings",
+  "item.aogirimodtools.ruby_boots": "Ruby Boots",
+
+  "block.aogirimodtools.ruby_ore": "Ruby Ore",
+  "block.aogirimodtools.ruby_block": "Ruby Block",
+
+  "itemGroup.aogirimodtools_group": "AogiriMod Tools Item"
+}
